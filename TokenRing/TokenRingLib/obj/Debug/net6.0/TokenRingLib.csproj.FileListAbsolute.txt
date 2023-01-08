@@ -1,0 +1,12 @@
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\bin\Debug\net6.0\TokenRingLib.deps.json
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\bin\Debug\net6.0\TokenRingLib.dll
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\bin\Debug\net6.0\TokenRingLib.pdb
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.csproj.AssemblyReference.cache
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.AssemblyInfoInputs.cache
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.AssemblyInfo.cs
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.csproj.CoreCompileInputs.cache
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.dll
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\refint\TokenRingLib.dll
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\TokenRingLib.pdb
+F:\мусор\ТГУ\Языки программирования\C#\TokenRing\TokenRingLib\obj\Debug\net6.0\ref\TokenRingLib.dll

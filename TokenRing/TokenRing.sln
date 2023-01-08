@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenRing", "TokenRing\TokenRing.csproj", "{33DCB7CC-BA8D-4764-9FB1-20BD4D349E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenRingLib", "TokenRingLib\TokenRingLib.csproj", "{0BF9214D-A248-4A25-9B3A-D6404349DC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DCB7CC-BA8D-4764-9FB1-20BD4D349E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DCB7CC-BA8D-4764-9FB1-20BD4D349E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DCB7CC-BA8D-4764-9FB1-20BD4D349E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DCB7CC-BA8D-4764-9FB1-20BD4D349E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF9214D-A248-4A25-9B3A-D6404349DC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF9214D-A248-4A25-9B3A-D6404349DC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF9214D-A248-4A25-9B3A-D6404349DC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF9214D-A248-4A25-9B3A-D6404349DC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0117B64D-8864-4094-85FB-D1072244C9B9}
+	EndGlobalSection
+EndGlobal

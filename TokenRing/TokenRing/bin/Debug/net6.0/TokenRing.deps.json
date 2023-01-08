@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TokenRing/1.0.0": {
+        "dependencies": {
+          "TokenRingLib": "1.0.0"
+        },
+        "runtime": {
+          "TokenRing.dll": {}
+        }
+      },
+      "TokenRingLib/1.0.0": {
+        "runtime": {
+          "TokenRingLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TokenRing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TokenRingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
